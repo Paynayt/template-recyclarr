@@ -1,8 +1,6 @@
 # Recyclarr Configuration Templates
 
-This repository provides ready-to-use configuration templates for the [Recyclarr] command line tool.
-These templates serve as starting points that users can adopt and customize according to their
-needs.
+Fork of https://github.com/recyclarr/config-templates .
 
 [Recyclarr]: https://github.com/recyclarr/recyclarr
 
